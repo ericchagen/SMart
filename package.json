@@ -52,6 +52,15 @@
         "[production]": {
           "kind": "xsuaa"
         }
+      },
+      "s4_product": {
+        "kind": "odata-v2",
+        "model": "srv/external/s4_product",
+        "[production]": {
+          "credentials": {
+            "destination": "s4-product"
+          }
+        }
       }
     },
     "features": {

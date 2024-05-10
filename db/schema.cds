@@ -1,3 +1,4 @@
+using { s4_product } from '../srv/external/s4_product.cds'; 
 namespace storeInventory;
 
 entity Product {
