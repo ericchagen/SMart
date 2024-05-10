@@ -1,0 +1,1 @@
+using storeInventorySrv as service from '../../srv/service';

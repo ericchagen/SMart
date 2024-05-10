@@ -1,0 +1,11 @@
+ID;name;location;materialNumber;materialName;supplier;baseUnit;availableStock;product_ID
+5f460b74-212e-4cfc-a7e8-d76fe05671aa;Larabee;Sacramento;smart-mat-004;smart-mat-004;Fibonacci;100;35;291e170c-b022-451b-a8ed-e231fdd94ad6
+94489a11-301d-48a9-b496-20d98fa3e69c;Maxwell Smart;Los Angeles;smart-mat-005;smart-mat-005;Euclid;25;30;7d864447-97c6-44cf-97c9-0d617074b6e8
+91d8c045-1295-49ff-8335-5a2879ae3309;Agent 99;San Francisco;smart-mat-006;smart-mat-006;Pythagoras;50;25;12edc7d6-c753-4a6a-9c16-6e8cff18d04f
+1f883c4c-81f5-4a61-8d4f-8edd87bd8900;The Chief;San Diego;smart-mat-007;smart-mat-007;Gauss;75;20;a75d0744-be10-4a00-9c5b-5c86826bfb97
+23eb659c-1400-4cf0-b5dc-d31b36f90302;Larabee;Sacramento;smart-mat-008;smart-mat-008;Fibonacci;100;15;dd2fc345-17b5-48bd-b42d-ca3ae655653b
+01af873b-a671-439d-ac34-ee75bfb007d6;Maxwell Smart;Los Angeles;smart-mat-009;smart-mat-009;Euclid;25;10;b3aceb67-c3f2-4601-a72f-aff97600dac6
+48693db8-bfbf-471d-9bd6-fb6db0e5d4a9;Agent 99;San Francisco;smart-mat-010;smart-mat-010;Pythagoras;50;5;d65303ed-b41f-4f8b-9a4e-1ede095511da
+bdc36e7f-d583-4df5-bb0d-ef377d2afbdc;The Chief;San Diego;smart-mat-011;smart-mat-011;Gauss;75;0;2145e869-b16e-4060-9290-3975197e26e1
+622f2d5b-a8b2-4cb4-b5f3-c285feaf3691;Larabee;Sacramento;smart-mat-012;smart-mat-012;Fibonacci;100;0;f5b3d1f0-9849-4c2b-a7a2-604e69d51f09
+5ef1d298-a751-4333-9532-1cae49e6cc44;Maxwell Smart;Los Angeles;smart-mat-013;smart-mat-013;Euclid;25;0;1185129a-b72d-4b40-b3e9-84389464f91a
