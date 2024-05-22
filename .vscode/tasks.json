@@ -71,6 +71,20 @@
       "options": {
         "cwd": "${workspaceFolder}/"
       }
+    },
+    {
+      "type": "deploy.mta.cf",
+      "label": "Template: Deploy MTA to Cloud Foundry: smart_inventory_management_backend - PT",
+      "taskType": "Deploy",
+      "mtarPath": "/home/user/projects/smart_inventory_management_backend/mta_archives/*.mtar",
+      "cfTarget": "",
+      "cfEndpoint": "",
+      "cfOrg": "",
+      "cfSpace": "",
+      "extensions": [],
+      "dependsOn": [
+        "Build MTA: smart_inventory_management_backend - PT"
+      ]
     }
   ]
 }

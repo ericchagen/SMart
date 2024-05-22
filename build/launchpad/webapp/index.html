@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title> Project Preview </title>
+    <title> Application Overview </title>
     <script src="shared-config.js"></script>
     <script src="https://ui5.sap.com/1.108.7/resources/sap-ui-core.js" 
             id="sap-ui-bootstrap"
@@ -28,7 +28,7 @@
                     return Controller.extend("PreviewController", {
                         onInit: function () {
 
-                            const data = {"Services":[{"ServiceName":"storeInventorySrv","DetailsURL":"./service/storeInventory/","Metadata":"./service/storeInventory/$metadata","Entities":[{"Name":"Product","URL":"./service/storeInventory/Product","FioriURL":"$fiori-preview/storeInventorySrv/Product#preview-app"},{"Name":"Warehouse","URL":"./service/storeInventory/Warehouse","FioriURL":"$fiori-preview/storeInventorySrv/Warehouse#preview-app"},{"Name":"Store","URL":"./service/storeInventory/Store","FioriURL":"$fiori-preview/storeInventorySrv/Store#preview-app"}],"EntitiesCount":3}]}
+                            const data = {"Services":[{"ServiceName":"storeInventorySrv","DetailsURL":"./service/storeInventory/","Metadata":"./service/storeInventory/$metadata","Entities":[{"Name":"Product","URL":"./service/storeInventory/Product","FioriURL":""},{"Name":"Warehouse","URL":"./service/storeInventory/Warehouse","FioriURL":""},{"Name":"Store","URL":"./service/storeInventory/Store","FioriURL":""},{"Name":"A_Product","URL":"./service/storeInventory/A_Product","FioriURL":""}],"EntitiesCount":4}]}
                             this.getView().setModel(new JSONModel(data));
                         }
                     });
